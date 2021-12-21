@@ -1,0 +1,14 @@
+C:\Users\white\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.exe
+C:\Users\white\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.deps.json
+C:\Users\white\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.json
+C:\Users\white\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.runtimeconfig.dev.json
+C:\Users\white\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\white\source\repos\SortingAlgorithms\bin\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.dll
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.pdb
+C:\Users\white\source\repos\SortingAlgorithms\obj\Debug\netcoreapp3.1\SortingAlgorithms.genruntimeconfig.cache
